@@ -1,0 +1,4 @@
+Code     Problem                        Fix        
+0x0001 = File does not exist            Run Setup.py 
+0x0002 = 
+0x1000 = Random error                   No Fix report as a bug

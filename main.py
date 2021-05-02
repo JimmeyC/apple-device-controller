@@ -49,14 +49,14 @@ try:
                 ac = 'Check successful'
             else:
                 clear()
-                print('Error please check github!')
+                print('Error 0x1000 please check github!')
                 exit()
     print('ac')            
     time.sleep(1)
     clear()
     print(f'Check of {core_files} is done')
 except:
-    print('Error, Please check github page.')
+    print('Error 0x0001, Please check github page.')
     time.sleep(.1)
     print('If nothing found make a push request.')
     exit()
@@ -76,14 +76,14 @@ try:
                 ac = 'Check successful'
             else:
                 clear()
-                print('Error please check github!')
+                print('Error 0x1000 please check github!')
                 exit()
     print('ac')            
     time.sleep(1)
     clear()
     print(f'Check of {login_files} is done')
 except:
-    print('Error, Please check github page.')
+    print('Error 0x0001, Please check github page.')
     time.sleep(.1)
     print('If nothing found make a push request.')
     exit()
@@ -103,14 +103,14 @@ try:
                 ac = 'Check successful'
             else:
                 clear()
-                print('Error please check github!')
+                print('Error 0x1000 please check github!')
                 exit()
     print('ac')            
     time.sleep(1)
     clear()
     print(f'Check of {eula_check} is done')
 except:
-    print('Error, Please check github page.')
+    print('Error 0x0001, Please check github page.')
     time.sleep(.1)
     print('If nothing found make a push request.')
     exit()
@@ -130,14 +130,14 @@ try:
                 ac = 'Check successful'
             else:
                 clear()
-                print('Error please check github!')
+                print('Error 0x1000 please check github!')
                 exit()
     print('ac')            
     time.sleep(1)
     clear()
     print(f'Check of {log_files} is done')
 except:
-    print('Error, Please check github page.')
+    print('Error 0x0001, Please check github page.')
     time.sleep(.1)
     print('If nothing found make a push request.')
     exit()
